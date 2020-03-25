@@ -10,6 +10,8 @@ array.join do |new_array|
  
  array = []
  
+ while array > 1 
+ 
  array.split("and") do |new_array|
    
    puts new_array
