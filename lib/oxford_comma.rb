@@ -1,8 +1,8 @@
 def oxford_comma(array)
  
-array ["kiwi"] 
+array [] 
  
-array.split
+array.join
 
  puts array
  
