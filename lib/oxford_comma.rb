@@ -4,6 +4,6 @@ def oxford_comma(array)
  
  elements = array.split
 
- puts elementsarray.split
+ puts elements.split
  
 end
