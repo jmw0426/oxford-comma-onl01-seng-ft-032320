@@ -2,11 +2,8 @@ def oxford_comma(array)
   
  array = []
  
- array.split(", ")
- 
- array.join(" and ")
- 
- 
- 
+ elements = array.split(", ")
 
+ puts elementsarray.split(", ")
+ 
 end
