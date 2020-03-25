@@ -2,9 +2,9 @@ def oxford_comma(array)
  
 array = ["kiwi"] 
  
-array.join
+array.join do |new_array|
 
- puts array
+ puts new_array
  
  end
  
