@@ -4,7 +4,7 @@ def oxford_comma(array)
  
 array.split do |elements|
 
- puts elements.split
+ puts elements
  
  end
  elements
