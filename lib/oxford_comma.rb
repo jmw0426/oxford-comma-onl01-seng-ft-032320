@@ -8,6 +8,10 @@ array.join do |new_array|
  
  end
  
+ array.split("and") do |new_array|
+ 
+ end
+ 
  end
  
  
