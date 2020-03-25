@@ -7,5 +7,5 @@ array.split do |elements|
  puts elements
  
  end
- elements
+ 
 end
