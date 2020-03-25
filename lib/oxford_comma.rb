@@ -2,9 +2,11 @@ def oxford_comma(array)
   
  array = []
  
-array.split do |elements|
+ array = new_array
+ 
+new_array.split
 
- puts elements
+ puts new_array
  
  end
  
