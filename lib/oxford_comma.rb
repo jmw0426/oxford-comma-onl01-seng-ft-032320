@@ -1,10 +1,8 @@
 def oxford_comma(array)
  
- array = new_array
- 
-new_array.split
+array.split
 
- puts new_array
+ puts array
  
  end
  
