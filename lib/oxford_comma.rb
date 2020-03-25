@@ -2,7 +2,7 @@ def oxford_comma(array)
   
  array = []
  
- elements = array.split
+array.split do |elements|
 
  puts elements.split
  
