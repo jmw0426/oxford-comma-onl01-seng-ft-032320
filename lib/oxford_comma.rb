@@ -1,12 +1,10 @@
 def oxford_comma(array)
  
-
- 
  if array.count == 2 
  
   return array.join(" and ")
  
- elsif array.count >2
+ elsif array.count > 2
  
   array[-1] = "and #{array[-1]}"
  
@@ -14,7 +12,7 @@ def oxford_comma(array)
  
  else 
    
-   return array
+   return array.split
  
  end  
 
