@@ -6,11 +6,15 @@ def oxford_comma(array)
  
   return array.join(" and ")
  
- else
+ elsif
  
   array[-1] = "and #{array[-1]}"
  
   return array.join(", ")
+ 
+ else 
+   
+   return array
  
  end  
 
